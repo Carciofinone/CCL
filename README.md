@@ -56,7 +56,7 @@
   - **Start delay**  
   - **Image processing mode** (`merge` or `single`)  
   - **End flash signal** (`on` / `off`)  
-- Press the shutter to start. The app takes an initial photo, then captures at each rotation target. If merge mode is selected, the final saved image is the horizontal merge of captured frames in reverse order (last → first).
+- Press the shutter to start. The app takes an initial photo, then captures at each rotation target. If merge mode is selected, the final saved image is the horizontal merge of captured frames in reverse order (last → first)(not functioning).
 
 ---
 
