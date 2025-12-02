@@ -7,7 +7,7 @@
 ## What this repo contains
 - **Original Cycloramic 32‑bit files** included for historical/reference purposes.  
 - **64‑bit rebuild** targeted to run on **iPhone 5s** (provided in the repo).  
-- **Example `ViewController.swift`** demonstrating: numeric step capture, degrees‑per‑step, compass triggers with timed fallback, flash/torch sync, optional triple end flash signal, and horizontal merge of captured images in reverse order (last → first).  
+- **Example `ViewController.swift`** demonstrating: numeric step capture, degrees‑per‑step, compass triggers with timed fallback, flash/torch sync, optional triple end flash signal, and horizontal merge of captured images in reverse order (last → first)(not functioning).  
 - **README** with build, signing, and usage instructions.
 
 ---
